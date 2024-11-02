@@ -166,4 +166,4 @@ cython_debug/
 ragenv/
 __pycache__/
 yapılacak.txt
-/.gitignore
+/notebooks
